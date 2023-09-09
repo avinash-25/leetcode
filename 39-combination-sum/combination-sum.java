@@ -16,20 +16,9 @@ class Solution {
         } else {
             for (int i = start; i < candidates.length; i++) {
                 currentList.add(candidates[i]);
-                // Recursively try the next candidate, but don't start from the current candidate to avoid duplicates.
                 backtrack(result, currentList, candidates, remaining - candidates[i], i);
-                // Remove the last added element to backtrack and explore other possibilities.
                 currentList.remove(currentList.size() - 1);
             }
         }
     }
-
 }
-//     public static void main(String[] args) {
-//         Solution solution = new Solution();
-//         int[] candidates = {2, 3, 6, 7};
-//         int target = 7;
-//         List<List<Integer>> combinations = solution.combinationSum(candidates, target);
-//         System.out.println(combinations);
-//     }
-// }
