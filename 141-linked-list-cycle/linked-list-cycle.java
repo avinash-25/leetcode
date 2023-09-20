@@ -1,5 +1,3 @@
-import java.util.HashSet;
-
 /**
  * Definition for singly-linked list.
  * class ListNode {
@@ -13,21 +11,22 @@ import java.util.HashSet;
  */
 public class Solution {
     public boolean hasCycle(ListNode head) {
-
-        HashSet<ListNode> visitedNodes = new HashSet<>();
-
-        ListNode current = head;
-
-        while (current != null) {
-        
-            if (visitedNodes.contains(current)) {
-                return true;
-            }
-
-            visitedNodes.add(current);
-            current = current.next;
+        if (head == null || head.next == null) {
+            return false; 
         }
 
-        return false;
+        ListNode slow = head;
+        ListNode fast = head;
+
+        while (fast != null && fast.next != null) {
+            slow = slow.next;     
+            fast = fast.next.next;
+
+            if (slow == fast) {
+                return true; 
+            }
+        }
+
+        return false; 
     }
 }
