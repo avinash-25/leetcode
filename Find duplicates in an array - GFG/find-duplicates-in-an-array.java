@@ -22,29 +22,34 @@ class GFG {
 // } Driver Code Ends
 
 
+
+// import java.util.ArrayList;
+// import java.util.Collections;
+
 class Solution {
     public static ArrayList<Integer> duplicates(int arr[], int n) {
         ArrayList<Integer> result = new ArrayList<>();
-        int[] frequency = new int[n]; // Create an array to keep track of the frequency of each element
         
-        // Iterate through the input array
         for (int i = 0; i < n; i++) {
-            int index = arr[i] % n; // Calculate the index to update the frequency
-            frequency[index]++;
+            int index = arr[i] % n;
+            arr[index] += n;
         }
-        
-        // Check for duplicates based on the frequency array
+
         for (int i = 0; i < n; i++) {
-            if (frequency[i] > 1) {
+            if (arr[i] >= 2 * n) {
                 result.add(i);
             }
         }
-        
+
         if (result.isEmpty()) {
-            result.add(-1); // If no duplicates are found, add -1 to the result
+            result.add(-1);
+        } else {
+            Collections.sort(result);
         }
-        
+
         return result;
     }
 }
+
+
 
