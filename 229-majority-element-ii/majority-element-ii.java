@@ -20,7 +20,6 @@ class Solution {
             }
         }
 
-        // Reset counts for the candidates
         count1 = 0;
         count2 = 0;
 
