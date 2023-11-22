@@ -1,18 +1,18 @@
 class Solution {
     public void rotate(int[] nums, int k) {
-        int len = nums.length;
-        k = k % len;
-        
-        // Create a temporary array to store the rotated values
-        int[] temp = new int[k];
-        
-        // Copy the last 'k' elements into the temp array
-        System.arraycopy(nums, len - k, temp, 0, k);
-        
-        // Shift the remaining elements to the right to make space for rotated elements
-        System.arraycopy(nums, 0, nums, k, len - k);
-        
-        // Copy the rotated elements from temp back to the beginning of nums
-        System.arraycopy(temp, 0, nums, 0, k);
+      k = k % nums.length;
+      reverse(nums,0,nums.length-1);
+      reverse(nums,0,k-1);   
+      reverse(nums,k,nums.length-1);
+    }
+
+    public void reverse(int[] nums,int start,int end){
+      while(start<end){
+        int temp = nums[start];
+        nums[start] = nums[end];
+        nums[end] = temp;
+        start++;
+        end--;
+      }
     }
 }
