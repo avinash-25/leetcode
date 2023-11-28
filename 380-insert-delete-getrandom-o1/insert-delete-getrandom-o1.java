@@ -1,12 +1,3 @@
-/**
- * Using ArrayList & HashMap
- *
- * Time Complexity: All function have average O(1)
- *
- * Space Complexity: O(N)
- *
- * N = Number of values currently stored in the data structure.
- */
 class RandomizedSet {
 
     List<Integer> nums;
