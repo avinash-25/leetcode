@@ -1,27 +1,27 @@
 class Solution {
     public int numDecodings(String s) {
-        Map<Integer,Integer> memo = new HashMap<>();
-        return recursion(memo,s,0);        
+        int[] dp = new int[s.length()];
+        Arrays.fill(dp, -1);
+        return findWays(s.toCharArray(), dp, 0);
     }
-    public int recursion(Map<Integer,Integer> memo,String s,int first){        
-        if(first==s.length() ){
-            return 1;
+    
+    
+    public int findWays(char[] arr, int[] dp, int idx){
+        
+        if(idx == arr.length) return 1;
+        if(arr[idx] == '0') return 0;
+        if(dp[idx] != -1) return dp[idx];
+        int num = 0; int ans = 0;
+        for(int k=idx; k<Math.min(idx+2, arr.length); ++k){
+            num = num*10 + Character.getNumericValue(arr[k]);
+            if(isValid(num))
+                ans += findWays(arr, dp, k+1);
         }
-        if(s.charAt(first)=='0'){
-            return 0;
-        }
-        if(first == s.length()-1){
-            return 1;
-        } 
-        if(memo.containsKey(first)){
-            return memo.get(first);
-        }
-        int count = recursion(memo,s,first+1); 
-        int twodigits=Integer.parseInt(s.substring(first,first+2));
-        if(twodigits<=26){
-            count+=recursion(memo,s,first+2);
-        }
-        memo.put(first,count);
-        return count;
+        
+        return dp[idx] = ans;
+    }
+    
+    public boolean isValid(int num){
+        return 0<num && num<27;
     }
 }
