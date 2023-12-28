@@ -1,40 +1,30 @@
-class Solution {
 
-    Map<String,Integer> map = new HashMap<>();
+public class Solution {
+    private final int[][] dp = new int[101][101];
+
     public int getLengthOfOptimalCompression(String s, int k) {
-        return getLengthOfOptimalCompression(s.toCharArray(), k, 0, ' ', 0);
+        for (int[] ints : dp) Arrays.fill(ints, -1);
+        return helper(s, 0, k);
     }
 
-    public int getLengthOfOptimalCompression(char[] chArray, int k, int prevCount, char prevChar, int i) {
-        
-        String key = k + "," + prevCount + "," + prevChar + "," + i;
-        if(map.containsKey(key)){
-            return map.get(key);
+    private int helper(String s, int left, int k) {
+        int n = k;
+        if (s.length() - left <= n) return 0;
+        if (dp[left][n] > -1) return dp[left][n];
+        int res = (n > 0) ? helper(s, left + 1, n - 1) : 10000, c = 1;
+        for (int i = left + 1; i <= s.length(); i++) {
+            res = Math.min(res, helper(s, i, n) + 1 + helper(c));
+            if (i == s.length()) break;
+            if (s.charAt(i) == s.charAt(left)) ++c;
+            else if (--n < 0) break;
         }
+        return dp[left][k] = res;
+    }
 
-        if(k < 0){
-            return Integer.MAX_VALUE;
-        }
-
-        if(i == chArray.length){
-            return 0;
-        }
-        int res;
-        if(chArray[i] == prevChar){
-            int incr = (prevCount == 1 || prevCount == 9 || prevCount == 99) ? 1 : 0;
-            res = incr + getLengthOfOptimalCompression(chArray, k, prevCount + 1, prevChar, i + 1);
-        }else{
-            res = Math.min(
-                getLengthOfOptimalCompression(chArray, k - 1, prevCount, prevChar, i + 1), 
-
-                1 + getLengthOfOptimalCompression(chArray, k, 1, chArray[i], i + 1)  
-            );
-        }
-
-        map.put(key, res);
-
-        return res;
-
-
+    private int helper(int c) {
+        if (c >= 100) return 3;
+        if (c >= 10) return 2;
+        if (c > 1) return 1;
+        return 0;
     }
 }
