@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/avinash-25/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/avinash-25/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/avinash-25/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/avinash-25/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2262-solving-questions-with-brainpower](https://github.com/avinash-25/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2681-put-marbles-in-bags](https://github.com/avinash-25/leetcode/tree/master/2681-put-marbles-in-bags) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/avinash-25/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/avinash-25/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/avinash-25/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 ## Topological Sort
