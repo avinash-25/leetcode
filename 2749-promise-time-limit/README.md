@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/promise-time-limit">Promise Time Limit</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>Given an&nbsp;asynchronous function&nbsp;<code>fn</code>&nbsp;and a time <code>t</code>&nbsp;in milliseconds, return&nbsp;a new&nbsp;<strong>time limited</strong>&nbsp;version of the input function. <code>fn</code> takes arguments provided to the&nbsp;<strong>time limited&nbsp;</strong>function.</p>
+<h2><a href="https://leetcode.com/problems/promise-time-limit">2749. Promise Time Limit</a></h2><h3>Medium</h3><hr><p>Given an&nbsp;asynchronous function&nbsp;<code>fn</code>&nbsp;and a time <code>t</code>&nbsp;in milliseconds, return&nbsp;a new&nbsp;<strong>time limited</strong>&nbsp;version of the input function. <code>fn</code> takes arguments provided to the&nbsp;<strong>time limited&nbsp;</strong>function.</p>
 
 <p>The <strong>time limited</strong> function should follow these rules:</p>
 
@@ -83,5 +83,5 @@ The function immediately throws an error.</pre>
 <ul>
 	<li><code>0 &lt;= inputs.length &lt;= 10</code></li>
 	<li><code>0 &lt;= t &lt;= 1000</code></li>
-	<li><code>fn returns a promise</code></li>
+	<li><code>fn</code> returns a promise</li>
 </ul>
