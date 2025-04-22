@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/avinash-25/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/avinash-25/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/avinash-25/leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/avinash-25/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Topological Sort
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/avinash-25/leetcode/tree/master/0029-divide-two-integers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/avinash-25/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/avinash-25/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Matrix
 |  |
 | ------- |
@@ -104,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/avinash-25/leetcode/tree/master/1656-count-good-triplets) |
+## Combinatorics
+|  |
+| ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/avinash-25/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
+## Number Theory
+|  |
+| ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/avinash-25/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 <!---LeetCode Topics End-->
