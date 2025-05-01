@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/avinash-25/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1656-count-good-triplets](https://github.com/avinash-25/leetcode/tree/master/1656-count-good-triplets) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/avinash-25/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/avinash-25/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2249-count-the-hidden-sequences](https://github.com/avinash-25/leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/avinash-25/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/avinash-25/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/avinash-25/leetcode/tree/master/0217-contains-duplicate) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/avinash-25/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/avinash-25/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2681-put-marbles-in-bags](https://github.com/avinash-25/leetcode/tree/master/2681-put-marbles-in-bags) |
 | [3430-count-days-without-meetings](https://github.com/avinash-25/leetcode/tree/master/3430-count-days-without-meetings) |
 ## Bit Manipulation
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/avinash-25/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/avinash-25/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/avinash-25/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sliding Window
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/avinash-25/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2681-put-marbles-in-bags](https://github.com/avinash-25/leetcode/tree/master/2681-put-marbles-in-bags) |
 ## Heap (Priority Queue)
 |  |
@@ -125,5 +129,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Queue
 |  |
 | ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/avinash-25/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/avinash-25/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Binary Search
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/avinash-25/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 <!---LeetCode Topics End-->
