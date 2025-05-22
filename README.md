@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/avinash-25/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/avinash-25/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/avinash-25/leetcode/tree/master/0283-move-zeroes) |
 | [0416-partition-equal-subset-sum](https://github.com/avinash-25/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/avinash-25/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1656-count-good-triplets](https://github.com/avinash-25/leetcode/tree/master/1656-count-good-triplets) |
@@ -160,5 +161,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/avinash-25/leetcode/tree/master/0283-move-zeroes) |
 | [0868-push-dominoes](https://github.com/avinash-25/leetcode/tree/master/0868-push-dominoes) |
 <!---LeetCode Topics End-->
