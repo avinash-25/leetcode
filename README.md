@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/avinash-25/leetcode/tree/master/0283-move-zeroes) |
 | [0416-partition-equal-subset-sum](https://github.com/avinash-25/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/avinash-25/leetcode/tree/master/0494-target-sum) |
+| [1063-best-sightseeing-pair](https://github.com/avinash-25/leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/avinash-25/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1656-count-good-triplets](https://github.com/avinash-25/leetcode/tree/master/1656-count-good-triplets) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/avinash-25/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/avinash-25/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/avinash-25/leetcode/tree/master/0494-target-sum) |
 | [0868-push-dominoes](https://github.com/avinash-25/leetcode/tree/master/0868-push-dominoes) |
+| [1063-best-sightseeing-pair](https://github.com/avinash-25/leetcode/tree/master/1063-best-sightseeing-pair) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/avinash-25/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/avinash-25/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/avinash-25/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
