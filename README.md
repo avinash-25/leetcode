@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/avinash-25/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/avinash-25/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/avinash-25/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3194-find-words-containing-character](https://github.com/avinash-25/leetcode/tree/master/3194-find-words-containing-character) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/avinash-25/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/avinash-25/leetcode/tree/master/3321-type-of-triangle) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/avinash-25/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/avinash-25/leetcode/tree/master/0038-count-and-say) |
 | [0868-push-dominoes](https://github.com/avinash-25/leetcode/tree/master/0868-push-dominoes) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/avinash-25/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3194-find-words-containing-character](https://github.com/avinash-25/leetcode/tree/master/3194-find-words-containing-character) |
 ## Stack
 |  |
 | ------- |
