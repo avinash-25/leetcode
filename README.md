@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/avinash-25/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/avinash-25/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/avinash-25/leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/avinash-25/leetcode/tree/master/0038-count-and-say) |
 | [0868-push-dominoes](https://github.com/avinash-25/leetcode/tree/master/0868-push-dominoes) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/avinash-25/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/avinash-25/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/avinash-25/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/avinash-25/leetcode/tree/master/3194-find-words-containing-character) |
