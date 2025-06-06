@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/avinash-25/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [2215-finding-3-digit-even-numbers](https://github.com/avinash-25/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/avinash-25/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/avinash-25/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/avinash-25/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/avinash-25/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3819-count-covered-buildings](https://github.com/avinash-25/leetcode/tree/master/3819-count-covered-buildings) |
@@ -131,12 +132,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/avinash-25/leetcode/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/avinash-25/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/avinash-25/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/avinash-25/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/avinash-25/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/avinash-25/leetcode/tree/master/3194-find-words-containing-character) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/avinash-25/leetcode/tree/master/0020-valid-parentheses) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/avinash-25/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Math
 |  |
 | ------- |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/avinash-25/leetcode/tree/master/0135-candy) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/avinash-25/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/avinash-25/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/avinash-25/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2681-put-marbles-in-bags](https://github.com/avinash-25/leetcode/tree/master/2681-put-marbles-in-bags) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/avinash-25/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Heap (Priority Queue)
