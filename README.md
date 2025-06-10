@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/avinash-25/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/avinash-25/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/avinash-25/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/avinash-25/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3819-count-covered-buildings](https://github.com/avinash-25/leetcode/tree/master/3819-count-covered-buildings) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/avinash-25/leetcode/tree/master/3850-equal-sum-grid-partition-ii) |
 ## Sorting
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/avinash-25/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/avinash-25/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/avinash-25/leetcode/tree/master/3194-find-words-containing-character) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/avinash-25/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
 |  |
 | ------- |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/avinash-25/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/avinash-25/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Depth-First Search
 |  |
 | ------- |
