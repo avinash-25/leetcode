@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/avinash-25/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/avinash-25/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/avinash-25/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/avinash-25/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2249-count-the-hidden-sequences](https://github.com/avinash-25/leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/avinash-25/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/avinash-25/leetcode/tree/master/3639-zero-array-transformation-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/avinash-25/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/avinash-25/leetcode/tree/master/3850-equal-sum-grid-partition-ii) |
 ## Union Find
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/avinash-25/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/avinash-25/leetcode/tree/master/3194-find-words-containing-character) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/avinash-25/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/avinash-25/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Stack
 |  |
 | ------- |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/avinash-25/leetcode/tree/master/1656-count-good-triplets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/avinash-25/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/avinash-25/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/avinash-25/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/avinash-25/leetcode/tree/master/3850-equal-sum-grid-partition-ii) |
 ## Combinatorics
 |  |
