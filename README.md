@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/avinash-25/leetcode/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/avinash-25/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/avinash-25/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/avinash-25/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2389-design-a-text-editor](https://github.com/avinash-25/leetcode/tree/master/2389-design-a-text-editor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/avinash-25/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3033-apply-operations-to-make-two-strings-equal](https://github.com/avinash-25/leetcode/tree/master/3033-apply-operations-to-make-two-strings-equal) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/avinash-25/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2389-design-a-text-editor](https://github.com/avinash-25/leetcode/tree/master/2389-design-a-text-editor) |
 ## Doubly-Linked List
 |  |
