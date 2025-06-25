@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/avinash-25/leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/avinash-25/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1656-count-good-triplets](https://github.com/avinash-25/leetcode/tree/master/1656-count-good-triplets) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/avinash-25/leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/avinash-25/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/avinash-25/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/avinash-25/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/avinash-25/leetcode/tree/master/0792-binary-search) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/avinash-25/leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/avinash-25/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Two Pointers
 |  |
