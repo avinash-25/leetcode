@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/avinash-25/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [2249-count-the-hidden-sequences](https://github.com/avinash-25/leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/avinash-25/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/avinash-25/leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/avinash-25/leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/avinash-25/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/avinash-25/leetcode/tree/master/3850-equal-sum-grid-partition-ii) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3033-apply-operations-to-make-two-strings-equal](https://github.com/avinash-25/leetcode/tree/master/3033-apply-operations-to-make-two-strings-equal) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/avinash-25/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/avinash-25/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3618-find-the-original-typed-string-ii](https://github.com/avinash-25/leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/avinash-25/leetcode/tree/master/3194-find-words-containing-character) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/avinash-25/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3617-find-the-original-typed-string-i](https://github.com/avinash-25/leetcode/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/avinash-25/leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/avinash-25/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/avinash-25/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/avinash-25/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
