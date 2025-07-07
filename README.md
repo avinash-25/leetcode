@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/avinash-25/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/avinash-25/leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/avinash-25/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/avinash-25/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/avinash-25/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1656-count-good-triplets](https://github.com/avinash-25/leetcode/tree/master/1656-count-good-triplets) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/avinash-25/leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/avinash-25/leetcode/tree/master/0217-contains-duplicate) |
 | [0594-longest-harmonious-subsequence](https://github.com/avinash-25/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0778-reorganize-string](https://github.com/avinash-25/leetcode/tree/master/0778-reorganize-string) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/avinash-25/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/avinash-25/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/avinash-25/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/avinash-25/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/avinash-25/leetcode/tree/master/0135-candy) |
 | [0778-reorganize-string](https://github.com/avinash-25/leetcode/tree/master/0778-reorganize-string) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/avinash-25/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/avinash-25/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/avinash-25/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/avinash-25/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/avinash-25/leetcode/tree/master/0778-reorganize-string) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/avinash-25/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/avinash-25/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2681-put-marbles-in-bags](https://github.com/avinash-25/leetcode/tree/master/2681-put-marbles-in-bags) |
 ## Enumeration
