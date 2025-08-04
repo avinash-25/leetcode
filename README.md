@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/avinash-25/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/avinash-25/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0792-binary-search](https://github.com/avinash-25/leetcode/tree/master/0792-binary-search) |
+| [0940-fruit-into-baskets](https://github.com/avinash-25/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/avinash-25/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1025-minimum-cost-for-tickets](https://github.com/avinash-25/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/avinash-25/leetcode/tree/master/1063-best-sightseeing-pair) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/avinash-25/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/avinash-25/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0778-reorganize-string](https://github.com/avinash-25/leetcode/tree/master/0778-reorganize-string) |
+| [0940-fruit-into-baskets](https://github.com/avinash-25/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/avinash-25/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/avinash-25/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/avinash-25/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/avinash-25/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/avinash-25/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/avinash-25/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/avinash-25/leetcode/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/avinash-25/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/avinash-25/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/avinash-25/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
