@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-zero-array-transformation-i](https://github.com/avinash-25/leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/avinash-25/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/avinash-25/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3791-fruits-into-baskets-iii](https://github.com/avinash-25/leetcode/tree/master/3791-fruits-into-baskets-iii) |
 | [3819-count-covered-buildings](https://github.com/avinash-25/leetcode/tree/master/3819-count-covered-buildings) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/avinash-25/leetcode/tree/master/3850-equal-sum-grid-partition-ii) |
 ## Hash Table
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/avinash-25/leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/avinash-25/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/avinash-25/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [3791-fruits-into-baskets-iii](https://github.com/avinash-25/leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -365,4 +367,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2079-delete-duplicate-folders-in-system](https://github.com/avinash-25/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
+## Segment Tree
+|  |
+| ------- |
+| [3791-fruits-into-baskets-iii](https://github.com/avinash-25/leetcode/tree/master/3791-fruits-into-baskets-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [3791-fruits-into-baskets-iii](https://github.com/avinash-25/leetcode/tree/master/3791-fruits-into-baskets-iii) |
 <!---LeetCode Topics End-->
