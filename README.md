@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/avinash-25/leetcode/tree/master/0029-divide-two-integers) |
+| [0231-power-of-two](https://github.com/avinash-25/leetcode/tree/master/0231-power-of-two) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/avinash-25/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/avinash-25/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/avinash-25/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/avinash-25/leetcode/tree/master/0029-divide-two-integers) |
+| [0231-power-of-two](https://github.com/avinash-25/leetcode/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/avinash-25/leetcode/tree/master/0826-soup-servings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/avinash-25/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/avinash-25/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/avinash-25/leetcode/tree/master/0231-power-of-two) |
 | [2573-remove-nodes-from-linked-list](https://github.com/avinash-25/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/avinash-25/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Monotonic Stack
