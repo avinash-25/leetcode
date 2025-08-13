@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/avinash-25/leetcode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/avinash-25/leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/avinash-25/leetcode/tree/master/0326-power-of-three) |
 | [0826-soup-servings](https://github.com/avinash-25/leetcode/tree/master/0826-soup-servings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/avinash-25/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/avinash-25/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/avinash-25/leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/avinash-25/leetcode/tree/master/0326-power-of-three) |
 | [2573-remove-nodes-from-linked-list](https://github.com/avinash-25/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/avinash-25/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Monotonic Stack
