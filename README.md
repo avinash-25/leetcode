@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/avinash-25/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/avinash-25/leetcode/tree/master/0494-target-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/avinash-25/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0679-24-game](https://github.com/avinash-25/leetcode/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/avinash-25/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0792-binary-search](https://github.com/avinash-25/leetcode/tree/master/0792-binary-search) |
 | [0940-fruit-into-baskets](https://github.com/avinash-25/leetcode/tree/master/0940-fruit-into-baskets) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/avinash-25/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/avinash-25/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/avinash-25/leetcode/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/avinash-25/leetcode/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/avinash-25/leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/avinash-25/leetcode/tree/master/0867-new-21-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/avinash-25/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/avinash-25/leetcode/tree/master/0494-target-sum) |
+| [0679-24-game](https://github.com/avinash-25/leetcode/tree/master/0679-24-game) |
 ## Counting
 |  |
 | ------- |
